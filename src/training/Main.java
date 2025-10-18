@@ -1,5 +1,6 @@
 package training;
 
+//ブロックの判定を次回行う
 import java.awt.CardLayout;
 import java.awt.Color;
 import java.awt.Graphics;
